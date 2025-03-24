@@ -15,9 +15,12 @@ En cette année 2025, je vise l’obtention des certifications offensives HTB CP
 
 Ce portfolio vous présente les différents projets sur lesquels j’ai pu travailler au cours de cette dernière année dans l’objectif d’obtenir mon mastère d’Expert en Sécurité Digitale. Tous les sujets présentés sont tirés d'études de cas fictives et sont le fruit de mon travail personnel. Dans certains cas, le même travail a pu être fourni en entreprise.
 
+Certains éléments viendront s'ajouter au fur et à mesure.
+
 [Profil Root-Me](https://www.root-me.org/AmadeuS365?lang=fr#7c071b7f2c3db47c8ae4fc617aacb33c)
 
 N'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/valentin-b-50849a173/) si vous souhaitez échanger.
+
 
 **Compétences**
 
