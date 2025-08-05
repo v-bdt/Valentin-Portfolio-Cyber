@@ -9,14 +9,17 @@ Après trois années passées en alternance, dans un premier temps en tant qu’
 
 Cette expérience en tant qu’apprenti Expert en Cybersécurité m’a permis de travailler sur différents projets, que ce soit en entreprise, ou à l’école sur différentes études de cas fictives, dans les différents secteurs. Vous retrouverez ces différents projets plus en détail dans le portfolio ci-dessous.
 
-En cette année 2025, je vise l’obtention des certifications offensives HTB CPTS, HTB CBBH et OSCP.
+En juillet 2025, j'ai obtenu la certification offensive [**HTB CPTS**](https://www.credly.com/badges/5742be52-912b-4f82-bbeb-6c73e3a5bc5c), après avoir complété les 28 modules du "Pentester Job Role Path" proposé par la plateforme [Hack The Box Academy](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist).
+
+Je vise également l’obtention des certifications offensives HTB CBBH et OSCP.
 
 ## Portfolio
 
-Ce portfolio vous présente les différents projets sur lesquels j’ai pu travailler au cours de cette dernière année dans l’objectif d’obtenir mon mastère d’Expert en Sécurité Digitale. Tous les sujets présentés sont tirés d'études de cas fictives et sont le fruit de mon travail personnel. Dans certains cas, le même travail a pu être fourni en entreprise.
+Ce portfolio vous présente un extrait des différents projets sur lesquels j’ai pu travailler dans l’objectif d’obtenir mon mastère d’Expert en Sécurité Digitale. Tous les sujets présentés sont tirés d'études de cas fictives et sont le fruit de mon travail personnel. Dans certains cas, le même travail a pu être fourni en entreprise.
 
 Certains éléments viendront s'ajouter au fur et à mesure.
 
+[Profil Hack The Box](https://app.hackthebox.com/profile/1737360)
 [Profil Root-Me](https://www.root-me.org/AmadeuS365?lang=fr#7c071b7f2c3db47c8ae4fc617aacb33c)
 
 N'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/valentin-b-50849a173/) si vous souhaitez échanger.
