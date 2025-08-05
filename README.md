@@ -27,7 +27,7 @@ En juillet 2025, j'ai obtenu la certification offensive [**HTB CPTS**](https://w
 
 Je vise également l’obtention des certifications offensives HTB CBBH et OSCP.
 
-De plus, j'ai pu compléter à 100% les Pro Labs DANTE et ZEPHYR proposés par la plateforme afin de développer mes compétences de Red Teaming.
+En outre, j'ai pu compléter à 100% les Pro Labs DANTE et ZEPHYR, toujours proposés par la plateforme Hack The Box afin de développer mes compétences de Red Teaming, en plus des nombreux challenges résolus sur Root-Me.
 
 ## Portfolio
 
