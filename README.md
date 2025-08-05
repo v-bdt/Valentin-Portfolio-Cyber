@@ -12,10 +12,15 @@ Cette expérience en tant qu’apprenti Expert en Cybersécurité m’a permis d
 En juillet 2025, j'ai obtenu la certification offensive [**HTB CPTS**](https://www.credly.com/badges/5742be52-912b-4f82-bbeb-6c73e3a5bc5c), après avoir complété les 28 modules du "Pentester Job Role Path" proposé par la plateforme [Hack The Box Academy](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist), et passé l'examen pratique de 10 jours simulant un engagement professionnel complet : 
 
 • Collecte d'informations et reconnaissance.
+
 • Enchainement de vulnérabilités afin d'obtenir un accès initial.
+
 • Escalade de privilèges Linux et Windows.
+
 • Pivoting et mouvement latéral.
+
 • Environnement Active Directory complexe.
+
 • Un rapport professionnel exigeant attendu à la fin.
 
 Je vise également l’obtention des certifications offensives HTB CBBH et OSCP.
