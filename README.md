@@ -23,6 +23,7 @@ En juillet 2025, j'ai obtenu la certification offensive [**HTB CPTS**](https://w
 
 • Un rapport professionnel exigeant attendu à la fin.
 
+
 Je vise également l’obtention des certifications offensives HTB CBBH et OSCP.
 
 ## Portfolio
