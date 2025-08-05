@@ -27,6 +27,8 @@ En juillet 2025, j'ai obtenu la certification offensive [**HTB CPTS**](https://w
 
 Je vise également l’obtention des certifications offensives HTB CBBH et OSCP.
 
+De plus, j'ai pu compléter à 100% les Pro Labs DANTE et ZEPHYR proposés par la plateforme afin de développer mes compétences de Red Teaming.
+
 ## Portfolio
 
 Ce portfolio vous présente un extrait des différents projets sur lesquels j’ai pu travailler dans l’objectif d’obtenir mon mastère d’Expert en Sécurité Digitale. Tous les sujets présentés sont tirés d'études de cas fictives et sont le fruit de mon travail personnel. Dans certains cas, le même travail a pu être fourni en entreprise.
@@ -34,6 +36,7 @@ Ce portfolio vous présente un extrait des différents projets sur lesquels j’
 Certains éléments viendront s'ajouter au fur et à mesure.
 
 [Profil Hack The Box](https://app.hackthebox.com/profile/1737360)
+
 [Profil Root-Me](https://www.root-me.org/AmadeuS365?lang=fr#7c071b7f2c3db47c8ae4fc617aacb33c)
 
 N'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/valentin-b-50849a173/) si vous souhaitez échanger.
