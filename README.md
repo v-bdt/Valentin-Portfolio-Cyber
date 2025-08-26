@@ -35,17 +35,22 @@ Ce portfolio vous présente un extrait des différents projets sur lesquels j’
 
 Certains éléments viendront s'ajouter au fur et à mesure.
 
-[Profil Hack The Box](https://app.hackthebox.com/profile/1737360)
-
-[Profil Root-Me](https://www.root-me.org/AmadeuS365?lang=fr#7c071b7f2c3db47c8ae4fc617aacb33c)
-
 N'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/valentin-b-50849a173/) si vous souhaitez échanger.
+
+
+
+[**Profil Hack The Box**](https://app.hackthebox.com/profile/1737360)
+
+[**Profil Root-Me**](https://www.root-me.org/AmadeuS365?lang=fr#7c071b7f2c3db47c8ae4fc617aacb33c)
+
+[**Base de connaissances personnelles**](https://github.com/v-bdt/Valentin-Portfolio-Cyber/tree/main/0.%20Base%20de%20connaissances)
+
 
 
 **Compétences**
 
 1. Secteur Offensif
-	- [1.1 Conduire un test d'intrusion](https://github.com/v-bdt/Valentin-Portfolio-Cyber/blob/main/1.%20Secteur%20Offensif/1.1%20Conduire%20un%20test%20d'intrusion.pdf)
+	- [1.1 Rapport de test d'intrusion](https://github.com/v-bdt/Valentin-Portfolio-Cyber/blob/main/1.%20Secteur%20Offensif/1.1%20Conduire%20un%20test%20d'intrusion.pdf)
 2. Secteur Défensif
 	- [2.1 Auditer la sécurité d'un Système d'Information](https://github.com/v-bdt/Valentin-Portfolio-Cyber/blob/main/2.%20Secteur%20D%C3%A9fensif/2.1%20Auditer%20la%20s%C3%A9curit%C3%A9%20d'un%20Syst%C3%A8me%20d'Information.md)
 	- [2.2 Durcir des postes, serveurs et protocoles réseaux](https://github.com/v-bdt/Valentin-Portfolio-Cyber/blob/main/2.%20Secteur%20D%C3%A9fensif/2.2%20Durcir%20des%20postes%2C%20serveurs%20et%20protocoles%20r%C3%A9seaux.md)
