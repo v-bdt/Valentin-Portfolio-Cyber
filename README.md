@@ -9,7 +9,7 @@ Après trois années passées en alternance, dans un premier temps en tant qu’
 
 Cette expérience en tant qu’apprenti Expert en Cybersécurité m’a permis de travailler sur différents projets, que ce soit en entreprise, ou à l’école sur différentes études de cas fictives, dans les différents secteurs. Vous retrouverez ces différents projets plus en détail dans le portfolio ci-dessous.
 
-### HTB CPTS
+### HTB Certified Penetration Testing Specialist
 
 En juillet 2025, j'ai obtenu la certification offensive [**HTB CPTS**](https://www.credly.com/badges/5742be52-912b-4f82-bbeb-6c73e3a5bc5c), après avoir complété les 28 modules du "Pentester Job Role Path" proposé par la plateforme [Hack The Box Academy](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) et passé l'examen pratique de 10 jours simulant un engagement professionnel complet : 
 
@@ -29,16 +29,28 @@ En juillet 2025, j'ai obtenu la certification offensive [**HTB CPTS**](https://w
 <img width="1123" height="793" alt="image" src="https://github.com/user-attachments/assets/ceeb1032-9c4e-40fa-85b1-eae4f6434ee0" />
 
 
+### Certified Red Team Operator (Zero-Point Security)
+
+Suite à l'obtention du CPTS, je me suis penché sur la certification CRTO proposée par [Zero-Point Security](https://www.zeropointsecurity.co.uk/course/red-team-ops) et approuvée par le [CREST](https://www.crest-approved.org/member_companies/zero-point-security-ltd/), afin d'approfondir mes connaissances et compétences en Red Teaming.
+
+La certification se focalise sur la simulation d'Advanced Persistent Threat (APT) en utilisant le Framework de Command and Control Cobalt Strike, ainsi que l'importance d'opérer en toute discrétion (OPSEC) afin de ne pas se faire détecter par les équipes défensives. Au total le cours contient 20 modules. On y apprend la configuration et utilisation de Cobalt Strike, allant de la création de listeners, génération de payloads, interaction avec les beacons et utilisation de BOFs, jusqu'à l'utilisation des "Artifacts Kit" et "Resource Kit" ainsi que la création de profiles malléables afin de bypasser la détection statique et dynamique antivirale en post-exploitation. On y apprend également des techniques d'accès initial, avec la taxonomie du Phishing, puis des techniques de persistance, escalade de privilèges, mouvement latéral, différentes attaques Kerberos et la compromission des Domain Trusts, le tout mappé sur le Framework [MITRE ATT&CK](https://attack.mitre.org/). Des techniques de bypass de la solution Applocker sont de même abordées. Le tout se fait avec un accès à différents LABS pour pratiquer les techniques enseignées et se familiariser avec Cobalt Strike.
+
+Concernant l'examen, il est 100% pratique, tout comme le CPTS, et se déroule sur 48h dans un contexte où nous avons déjà un accès initial. Des règles d'engagements nous sont fournies définissant le périmètre ainsi que l'objectif à atteindre. Contrairement au CPTS, il ne s'agit pas de capturer des drapeaux, mais d'accéder à une machine spécifique et y créer un fichier. Afin d'obtenir la certification, il faut atteindre au minimum le score de 85 points sur 100. L'atteinte de l'objectif définit nous octroie 50 points, le reste des points nous est attribué en fonction de notre capacité à passer sous les radars (OPSEC). 
+
+C'est fin septembre 2025 que j'ai pu passer l'examen avec [succès](https://certs.zeropointsecurity.co.uk/65413d65-511e-46ad-b53e-7e920b1cfcbb).
+
+<img width="1122" height="793" alt="image" src="https://github.com/user-attachments/assets/aee6d759-1dd6-488c-aa97-3975a9a13d8c" />
 
 
-Je vise également l’obtention des certifications offensives CRTO et OSCP.
 
 
 
 
-### HTB Pro Labs Dante & Zephyr
 
-En outre, j'ai pu compléter à 100% les Pro Labs DANTE et ZEPHYR, toujours proposés par la plateforme Hack The Box afin de développer mes compétences de Red Teaming, en plus des nombreux challenges résolus sur Root-Me.
+
+### HTB Pro Labs
+
+En outre, j'ai pu compléter à 100% les Pro Labs DANTE et ZEPHYR, proposés par la plateforme Hack The Box afin de développer mes compétences en Red Teaming.
 
 <img width="1123" height="793" alt="image" src="https://github.com/user-attachments/assets/0ac34932-1d99-4618-9bd5-60bff6348728" />
 
