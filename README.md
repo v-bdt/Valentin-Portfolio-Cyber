@@ -42,7 +42,8 @@ Afin d'obtenir la certification, il faut atteindre au minimum le score de 85 poi
 
 C'est fin septembre 2025 que j'ai pu passer l'examen avec [succès](https://certs.zeropointsecurity.co.uk/65413d65-511e-46ad-b53e-7e920b1cfcbb).
 
-<img width="1122" height="793" alt="image" src="https://github.com/user-attachments/assets/aee6d759-1dd6-488c-aa97-3975a9a13d8c" />
+<img width="1123" height="794" alt="image" src="https://github.com/user-attachments/assets/d35646ea-2660-40a5-918d-0eed55e3b40d" />
+
 
 
 
